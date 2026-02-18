@@ -64,4 +64,5 @@ npm test
 
 ---
 
-*Note: All core logic, API structure, and implementation decisions were written and refined by me to ensure a robust and readable system.*
+*Note: I used AI tools (ChatGPT ) for high-level design guidance and to sanity-check edge cases and test scenarios.
+All core logic, API structure, and final implementation decisions were written and refined by me.*
